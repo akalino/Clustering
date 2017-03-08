@@ -26,3 +26,5 @@ Bayesian estimation. The BayesEstimates class initializes estimation parameters,
 applied the binomial beta distribution and runs the maximum likelihood estimator.
 The bayesian approach allows for both data normalization and imputation of missing variables
 needed for the CLARA algorithm.
+
+Future hopes are to submit a pull request to add the CLARA algorithm to sklearn.
